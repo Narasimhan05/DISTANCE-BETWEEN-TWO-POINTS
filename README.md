@@ -26,8 +26,7 @@ print("{:.2f}".format(d**0.5))
 ```
 
 ## OUTPUT:
-
-![Screenshot 2024-03-16 113419](https://github.com/Narasimhan05/DISTANCE-BETWEEN-TWO-POINTS/assets/132819871/b139453d-3e5b-4a82-aa95-007ac6e89a61)
+![alt text](<Screenshot 2024-04-03 093801.png>)
 
 ## RESULT:
 Thus the program to find the distance between two points is written and verified using python programming.
